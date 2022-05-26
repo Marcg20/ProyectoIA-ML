@@ -30,6 +30,7 @@ Los datos de la tabla corresponden a los resultados de las métricas usando el 1
 
 
 ## Conclusiones
-
+* El dataset utilizado no presenta buenos datos en las características, lo cual no permite determinar adecuadamente la potabilidad del agua. Al observar en la parte de discusión de Kaggle se observa que la mayoría de los comentarios hablan sobre las anormalidades de los datos.
+* El mejor resultado según las métricas usadas es MLP, seguido de SVM, KNN Y por último Decision Tree. 
 
 ## Link del video: 
