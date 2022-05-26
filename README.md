@@ -24,7 +24,7 @@ El dataset tiene entonces 3271 filas × 10 columnas y el link es el siguiente: h
 Para resolver este problema se usaron 4 métodos, K-nearest neighbors, Support vector machine, Decision Tree y Multi-layer Perceptron classifier, los cuales se evaluaron con dos métricas, MCC y F1 score, finalmente se eligió Multi-layer Perceptron classifier al tener mayor porcentaje en las métricas de evaluación.
 
 ## Resultados
-![Image text](https://github.com/Marcg20/ProyectoIA-ML/blob/main/re.png {width=40px height=400px})
+![Image text](https://github.com/Marcg20/ProyectoIA-ML/blob/main/re.png = 250x250)
 ## Conclusiones
 
 
