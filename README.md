@@ -34,3 +34,4 @@ Los datos de la tabla corresponden a los resultados de las métricas usando el 1
 * El mejor resultado según las métricas usadas es MLP, seguido de SVM, KNN Y por último Decision Tree. 
 
 ## Link del video: 
+https://youtu.be/6NiK2HO5oto
